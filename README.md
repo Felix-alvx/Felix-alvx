@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer+(.NET);Systems+Engineering+Graduate+%E2%80%93+UISIL;IT+Support+Background;Clean+Architecture+%7C+ASP.NET+Core+%7C+EF+Core" alt="Typing SVG" />
 </a>
 
-📍 Ciudad Quesada, Costa Rica &nbsp;·&nbsp; 📧 [alvaradofelix145@gmail.com](mailto:alvaradofelix145@gmail.com) &nbsp;·&nbsp; [LinkedIn](#www.linkedin.com/in/félix-alvarado-84a3852b4) &nbsp;·&nbsp; [Portfolio](#)
+📍 Ciudad Quesada, Costa Rica &nbsp;·&nbsp; 📧 [alvaradofelix145@gmail.com](mailto:alvaradofelix145@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/f%C3%A9lix-alvarado-84a3852b4) &nbsp;·&nbsp; [Portfolio](#)
 
 </div>
 
