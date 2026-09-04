@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Félix%20Alvarado&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20(.NET)%20·%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/">
+<a href="www.linkedin.com/in/félix-alvarado-84a3852b4">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer+(.NET);Systems+Engineering+Graduate+%E2%80%93+UISIL;IT+Support+Background;Clean+Architecture+%7C+ASP.NET+Core+%7C+EF+Core" alt="Typing SVG" />
 </a>
 
